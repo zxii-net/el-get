@@ -59,7 +59,7 @@ You can run multiple tests by simply providing multiple test files to
 
 When running multiple tests, the script will wait 5 seconds between
 tests, since many tests involve downloading files from the same few
-servers (Github, emacswiki, marmalade, etc.), and it is impolite to
+servers (Github, emacswiki, etc.), and it is impolite to
 download a large number of files in rapid succession just for
 testing. There is a script called +run-all-tests.sh+ that acts as a
 shortcut for running all the available tests.
